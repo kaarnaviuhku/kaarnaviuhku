@@ -1,6 +1,6 @@
 	- 👋 Hi, I’m @kaarnaviuhku
 	- 👀 I’m interested in all things new and exciting!
-	- 🌱 I’m currently learning Shell Scripting, WooCommerce and HTML5 Canvas elements
+	- 🌱 I’m currently learning Next.js
 
 <!---
 kaarnaviuhku/kaarnaviuhku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
