@@ -1,4 +1,5 @@
 	- 👋 Hi, I’m @kaarnaviuhku
+	- 👾 You can find me on LinkedIn: [https://www.linkedin.com/in/anniturkia/](https://www.linkedin.com/in/anniturkia/)
 	- 👀 I’m interested in all things new and exciting!
 	- 🌱 I’m currently learning Next.js
 
